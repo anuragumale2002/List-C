@@ -1,4 +1,4 @@
-# Programming Assignment 1 - List ADT
+# List ADT
 
 The file **List.c** has implementation of the **List** Data Structure.
 
